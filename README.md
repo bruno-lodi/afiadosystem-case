@@ -10,7 +10,7 @@ by [brunolodi.dev](https://brunolodi.dev)
 
 ## O problema
 Os sistemas de barbearia mais usados no Brasil pedem login antes de mostrar qualquer coisa. O cliente quer saber
-preço e horário livre, mas encontra uma tela de cadastro com seis campos obrigatórios. Muita gente desiste ali.
+preço e horário livre, mas antes precisa preencher um cadastro com seis campos obrigatórios.
 
 Do lado da barbearia, agenda, clube de assinatura, caixa e comissões ficam espalhados em planilhas e no WhatsApp.
 
